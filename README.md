@@ -14,7 +14,7 @@ A simple and clean **Responsive Profile Card** built with **HTML** and **CSS**.
 - Boxicons  
 
 ## 📸 Preview
-https://github.com/wailhassan/Responsive-Profile-Card-Project/blob/main/Review.jpg?raw=true
+[Profile Card Preview](https://github.com/wailhassan/Responsive-Profile-Card-Project/blob/main/Review.jpg?raw=true)
 
 ## 🚀 How to Use
 1. Clone this repo:
