@@ -14,7 +14,7 @@ A simple and clean **Responsive Profile Card** built with **HTML** and **CSS**.
 - Boxicons  
 
 ## 📸 Preview
-![Profile Card Preview](./profile.jpeg)
+![Profile Card Preview](./Output.jpj)
 
 ## 🚀 How to Use
 1. Clone this repo:
